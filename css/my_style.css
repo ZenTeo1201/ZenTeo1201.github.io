@@ -1,7 +1,7 @@
 :root{
-    --bs-primary:#ee4866;
+    --bs-primary:rgb(76, 250, 192);
     --bs-primary-rgb:238,72,102;
-    --bs-secondary:#C07300;
+    --bs-secondary:rgb(182, 255, 231);
     --bs-secondary-rgb:238,143,0;
 }
 
